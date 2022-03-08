@@ -11,6 +11,7 @@ number = 1234
 # Method 2
 print(str(number)[::-1])
 
+print("Hello world")
 
 
 
